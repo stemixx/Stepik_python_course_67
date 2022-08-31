@@ -1,3 +1,3 @@
-Stepik python course
+## Stepik python course
 
-https://stepik.org/course/67
+ > https://stepik.org/course/67
